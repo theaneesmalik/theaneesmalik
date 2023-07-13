@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theaneesmalik
-- 👀 I’m interested in web technologiew
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently working as Full Stack Web Developer
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me theaneesmalik@gmail.com
 
